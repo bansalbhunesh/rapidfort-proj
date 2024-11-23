@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/docx-to-pdf-converter.git
-cd docx-to-pdf-converter
+cd docx-to-pdf-converter```
 
 ### Step 2: Build Docker Images
 
